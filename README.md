@@ -1,4 +1,8 @@
 # Kafka-Demo Project
+![image](https://github.com/balajidontul/kafka-demo/assets/83111706/f0c79b2f-210a-4790-a7b1-f3034b56e034)
+
+![image](https://github.com/balajidontul/kafka-demo/assets/83111706/53d7df40-7882-4981-820f-2388f80a8e1b)
+
 ![image](https://github.com/balajidontul/kafka-demo/assets/83111706/dee6b863-43c8-4fa7-b06c-ad9c72f18438)
 
 ![Screenshot (10)](https://github.com/balajidontul/kafka-demo/assets/83111706/1b9994a3-3032-4221-a066-2e5855b7f3b1)
