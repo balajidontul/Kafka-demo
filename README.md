@@ -1,4 +1,11 @@
 # Kafka-Demo Project
+
+
+![image](https://github.com/balajidontul/kafka-demo/assets/83111706/dee6b863-43c8-4fa7-b06c-ad9c72f18438)
+
+![Screenshot (10)](https://github.com/balajidontul/kafka-demo/assets/83111706/1b9994a3-3032-4221-a066-2e5855b7f3b1)
+
+
 ## Overview
 The Kafka-Demo project is a Java 17-based application using Spring Boot that demonstrates basic Kafka functionalities.
 It consists of producer and consumer configurations to work with a Kafka topic named demotopic.
